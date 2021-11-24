@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\bin\Debug\netcoreapp3.1\OOPCAT.exe
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\bin\Debug\netcoreapp3.1\OOPCAT.deps.json
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\bin\Debug\netcoreapp3.1\OOPCAT.runtimeconfig.json
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\bin\Debug\netcoreapp3.1\OOPCAT.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\bin\Debug\netcoreapp3.1\OOPCAT.dll
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\bin\Debug\netcoreapp3.1\OOPCAT.pdb
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.AssemblyInfo.cs
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.dll
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.pdb
+C:\Users\opilane\source\repos\TITpe21\OOP-Part1\OOPCAT\obj\Debug\netcoreapp3.1\OOPCAT.genruntimeconfig.cache
